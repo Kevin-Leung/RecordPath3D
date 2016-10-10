@@ -2,7 +2,6 @@ package com.amap.recordpath3d;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
-import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -12,6 +11,7 @@ import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ToggleButton;
+
 import com.amap.api.maps.AMap;
 import com.amap.api.maps.AMap.OnMapLoadedListener;
 import com.amap.api.maps.CameraUpdateFactory;
@@ -19,7 +19,6 @@ import com.amap.api.maps.MapView;
 import com.amap.api.maps.model.BitmapDescriptorFactory;
 import com.amap.api.maps.model.LatLng;
 import com.amap.api.maps.model.LatLngBounds;
-import com.amap.api.maps.model.LatLngBoundsCreator;
 import com.amap.api.maps.model.Marker;
 import com.amap.api.maps.model.MarkerOptions;
 import com.amap.api.maps.model.PolylineOptions;

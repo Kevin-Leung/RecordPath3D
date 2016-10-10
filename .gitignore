@@ -37,3 +37,30 @@ captures/
 
 # Keystore files
 *.jks
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/libraries/AMap_3DMap_V3_3_2_20160525.xml
+.idea/libraries/AMap_Location_V2_4_1_20160414.xml
+.idea/libraries/android_support_v4.xml
+.idea/libraries/animated_vector_drawable_24_2_1.xml
+.idea/libraries/appcompat_v7_24_2_1.xml
+.idea/libraries/hamcrest_core_1_3.xml
+.idea/libraries/junit_4_12.xml
+.idea/libraries/support_annotations_24_2_1.xml
+.idea/libraries/support_compat_24_2_1.xml
+.idea/libraries/support_core_ui_24_2_1.xml
+.idea/libraries/support_core_utils_24_2_1.xml
+.idea/libraries/support_fragment_24_2_1.xml
+.idea/libraries/support_media_compat_24_2_1.xml
+.idea/libraries/support_v4_24_2_1.xml
+.idea/libraries/support_vector_drawable_24_2_1.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+gradle.properties
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
